@@ -1,5 +1,15 @@
 # connection_pool Changelog
 
+HEAD
+------
+
+- Drop support for Ruby 2.2 [#154]
+
+2.2.5
+------
+
+- Fix argument forwarding on Ruby 2.7 [#149]
+
 2.2.4
 ------
 
